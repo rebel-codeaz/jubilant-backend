@@ -15,6 +15,7 @@ I am following some udacity courses.
     - JSON
     # Key Points to learn:
       - Headers are important and they vary with kind of requests.
+      - You can send html forms as string to display in browser via a request
       - Content-type is set according to what you are gonna send to browser, and getting it wrong throws a TypeError
       - Write good error messages and print statements to understand the flow.
     
