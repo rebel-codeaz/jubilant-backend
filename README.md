@@ -7,6 +7,7 @@ I am following some udacity courses.
 # 1. Client and Web Server Communication (I'll add notes later)
 
 # 2. HTTP and Web Servers
+    - you can find the complete code here -> https://github.com/udacity/course-ud303
     - you write web servers from scratch and know how each component holds together 
     - Hello server (just prints hello when a request is hit)
     - Echo server (little dynamic, prints whatever you pass as query param)
